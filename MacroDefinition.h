@@ -12,6 +12,8 @@
 //-------------------获取设备大小-------------------------
 //NavBar高度
 #define NavigationBar_HEIGHT 44
+//Tabbar高度
+#define TabBar_HEIGHT 49
 //获取屏幕 宽度、高度
 #define SCREEN_WIDTH ([UIScreen mainScreen].bounds.size.width)
 #define SCREEN_HEIGHT ([UIScreen mainScreen].bounds.size.height)
